@@ -1,0 +1,17 @@
+#section-a
+{
+	background: url('logo.JPG') no-repeat center center;
+	border-bottom: 1px solid #56a79a;
+	margin-bottom: 30px;
+	padding-top: 15px;
+	width: 100%;
+
+	
+	#section-a .picture
+{
+	width: 50%;
+}
+
+	<p>Numnber: 0823966706</p>
+				
+				<p></p>
